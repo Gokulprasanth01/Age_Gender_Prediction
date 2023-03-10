@@ -6,6 +6,8 @@ UTKFace dataset is a large-scale face dataset with long age span (range from 0 t
 
 The objective of the project is to detect gender and age using facial images. Convolutional Neural Network is used to classify the images. There are 2 output types namely, gender(M or F) and age.
 
+![image](https://user-images.githubusercontent.com/116962572/224241677-698a692b-ede4-4129-bce6-9106b56c8ca1.png)
+
 **Download link:** [Link](https://www.kaggle.com/datasets/jangedoo/utkface-new)
 
 **Environment:** kaggle
@@ -32,9 +34,9 @@ The objective of the project is to detect gender and age using facial images. Co
 **Age MAE:** 6.5
 
 ###   Tools : `Python`
+ 
 
-![image](https://user-images.githubusercontent.com/116962572/224241677-698a692b-ede4-4129-bce6-9106b56c8ca1.png)
-
-# Output: ![image](https://user-images.githubusercontent.com/116962572/224242028-615a6164-fc8b-4354-9011-9f585e0ca65f.png)
+# Output: 
+![image](https://user-images.githubusercontent.com/116962572/224242028-615a6164-fc8b-4354-9011-9f585e0ca65f.png)
 
 
