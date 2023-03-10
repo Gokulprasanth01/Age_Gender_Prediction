@@ -14,21 +14,19 @@ The objective of the project is to detect gender and age using facial images. Co
 
 ## Libraries
 
-### -> pandas
-### -> numpy
-### -> matplotlib
-### -> keras
-### -> tensorflow
-### -> scikit-learn
+- pandas
+- numpy
+- matplotlib
+- keras
+- tensorflow
+- scikit-learn
 
 ## Neural Network
 
-### -> CNN Network
+- CNN Network
 ####   - CNN stands for Convolutional Neural Network, which is a type of artificial neural network commonly used in image and video recognition tasks.
 ####   - In a CNN, the input image is passed through a series of convolutional layers, which apply a set of filters to the image to extract relevant features. These   ####     features are then processed by one or more fully connected layers, which perform the classification task.
 
-## -> EDA 
-## -> Feature Extraction
   
 **Gender Accuracy:** 90.00
 **Age MAE:** 6.5
